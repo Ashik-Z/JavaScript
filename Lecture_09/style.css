@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 2.5em;
+}
+
+.myLabels{
+    font-size: 2.5em;
+}
